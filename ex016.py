@@ -7,7 +7,7 @@ print('Desafio 016\nCrie um programa que leia um número Real qualquer pelo tecl
       'Ex:','\033[1m' + 'Digite um número:' + '\033[0m',
       '\033[1m' + 'O número' + '\033[0m',
       '6,127',
-      '\033[1m' + 'tem a paerte inteira' + '\033[0m',
+      '\033[1m' + 'tem a parte inteira' + '\033[0m',
       '6')
 
 print('='*20)
