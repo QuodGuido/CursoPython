@@ -1,0 +1,15 @@
+print('='*20)
+print('Desafio 004\nFaça um programa que leia algo pelo teclado e mostre na tela\nseu tipo primitivo e todas as informações possiveis sobre ele')
+print('='*20)
+
+a=input('Digite algo: ')
+print('Seu tipo é:', type(a))
+print(f'Só tem espaços? {a.isspace()}')
+print(f'É numérico? {a.isnumeric()}')
+print(f'É alfabético? {a.isalpha()}')
+print(f'É alfanumérico? {a.isalnum()}')
+print(f'Está em letras maiúsculas?{a.isupper()}')
+print(f'Está em letras minúsculas? {a.islower()}')
+print(f'Está capitalizada? {a.istitle()}')
+
+print('='*20)
