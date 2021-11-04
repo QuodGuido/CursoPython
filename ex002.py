@@ -4,5 +4,5 @@ print('='*20)
 
 nome = input('Qual seu nome? ')
 
-print('Meu nome é: {}'.format(nome))
+print('Seja bem vindo {}'.format(nome))
 print('='*20)
