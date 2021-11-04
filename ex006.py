@@ -1,7 +1,7 @@
 from math import pow
 
 print('='*20)
-print('Desafio 005\nCrie um algoritimo que leia um número e mostre o seu dobro, triplo e raiz quadrada')
+print('Desafio 006\nCrie um algoritimo que leia um número e mostre o seu dobro, triplo e raiz quadrada')
 print('='*20)
 
 n = float (input('Meu número é: '))
